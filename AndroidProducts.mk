@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_dipper.mk
+    $(LOCAL_DIR)/twrp_equuleus.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_dipper-userdebug \
-    twrp_dipper-eng
+    twrp_equuleus-userdebug \
+    twrp_equuleus-eng
