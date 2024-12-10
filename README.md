@@ -1,5 +1,5 @@
 # android_device_xiaomi_sdm845
-Device tree for build TWRP for Xiaomi MI 8(dipper) only.
+Device tree for build TWRP for Xiaomi sdm845(dipper equuleus ursa ...).
 
 ## Downloading TWRP sources
 ```
