@@ -294,7 +294,9 @@
 /dev/ramdump*             0640   system     system
 
 # Fingerprint device
-/dev/qbt1000              0660   system     system
+/dev/goodix_fp             0660   system     system
+/dev/qbt1000               0660   system     system
+/dev/vfsspi                0660   system     system
 
 #ImproveTouch device
 /dev/hbtp_input           0660   system     system
